@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UML1 PizzaStore", "UML1 Demo\UML1 PizzaStore.csproj", "{6EDB6168-B218-40DA-A9FB-39B0D7D00D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EDB6168-B218-40DA-A9FB-39B0D7D00D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDB6168-B218-40DA-A9FB-39B0D7D00D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDB6168-B218-40DA-A9FB-39B0D7D00D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDB6168-B218-40DA-A9FB-39B0D7D00D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB1E7970-04DF-44F3-87C0-01D0F56EF125}
+	EndGlobalSection
+EndGlobal
